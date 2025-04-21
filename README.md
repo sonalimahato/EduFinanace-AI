@@ -40,7 +40,7 @@ EduFinance AI provides:
 ![Home Page](assets/Home.jpg)
 ![Scholarships And Loan Search](assets/Scholarship.jpg) 
 ![Skill-Based Recommendations](assets/Skill_based_recom.jpg) 
-![AI Assistance](assets/AI_support.jpg) 
+![AI Assistance](assets/AI_Support.jpg) 
 
 ## 🏃‍♂ Getting Started
 
