@@ -37,10 +37,10 @@ EduFinance AI provides:
 - Dotenv (Environment Management/Data Security)
 
 ## 📸 Demo  
-![Home Page](assets/Home.png)
-![Scholarships And Loan Search](assets/Scholarship.png) 
-![Skill-Based Recommendations](assets/Skill_based_recom.png) 
-![AI Assistance](assets/AI_support.png) 
+![Home Page](assets/Home.jpg)
+![Scholarships And Loan Search](assets/Scholarship.jpg) 
+![Skill-Based Recommendations](assets/Skill_based_recom.jpg) 
+![AI Assistance](assets/AI_support.jpg) 
 
 ## 🏃‍♂ Getting Started
 
@@ -49,15 +49,15 @@ EduFinance AI provides:
 - Google Gemini API key
 
 1. Clone the repository:
-   bash
-   git clone https://github.com/nikitaMishr/EduFinance-AI.git
+   ```bash
+   git clone https://github.com/sonalimahato/EduFinance-AI.git
    cd EduFinance-AI
-   
+   ```
 1. Install dependencies:  
-   bash
+   ```bash
    pip install -r requirements.txt
-   
+   ```
 2. Run the app:  
-   bash
+   ```bash
    streamlit run app.py
-   
+   ```
